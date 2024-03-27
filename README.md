@@ -1,20 +1,28 @@
-# Carousel Random Sky
+# Wiwi bank components
 
-A simple carousel made with [CodeSandBox](https://codesandbox.io/).
+A very cool project components for inspire people
 
-I used the [Unsplash](https://unsplash.com/fr/s/photos/sunsplash) random https API to display random (and beautiful) images of the sky.
+## The meaning of it ? 🧐
 
-- [Here](<[<(https://codesandbox.io/p/sandbox/sky-carousel-ltl8gj?file=%2Fsrc%2FApp.tsx)>](https://codesandbox.io/p/sandbox/sky-carousel-ltl8gj?file=%2Fsrc%2Fcarousel.tsx%3A30%2C6)>) for the runtime project in codeSandBox.io
+Just for fun actually.
 
-## Made with React (and TypeScript) 😎
+Ultimately I would like to have a fairly and nice components bank made by everyone who wants to contribute and where each can use.
 
-Like usual, I implement this apps component with the current best JS library :
+## Components
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+### - Carousel Random Sky ([WillemJou](https://github.com/WillemJou))
 
-## The meaning of it
+- [Here](https://codesandbox.io/p/sandbox/sky-carousel-ltl8gj?file=%2Fsrc%2FApp.tsx) for the runtime project in codeSandBox.io
 
-Ultimately I would like to have a fairly simple and generic component bank to provide those implemented in other projects.
+#### A simple carousel with images that make you want to rise...
+
+It displays when user click on arrows some random (and beautiful) photos of the sky.
+
+Thanks to them, I used the [Unsplash](https://unsplash.com/fr/s/photos/sunsplash) random https API request to display images and [CodeSandBox](https://codesandbox.io/) for...code with ease and class this little project !
+
+#### Made with React (and TypeScript) 😎
+
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 ## Authors
 

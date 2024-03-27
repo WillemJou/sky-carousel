@@ -1,0 +1,42 @@
+.carousel-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: black;
+}
+.carousel {
+  position: relative;
+  width: 70%;
+  aspect-ratio: 4 / 3;
+}
+.img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.prev-btn,
+.next-btn {
+  position: absolute;
+  cursor: pointer;
+  background-color: transparent;
+  border: none;
+  outline: none;
+  box-shadow: none;
+  font-size: clamp(
+    1rem,
+    calc(1.375rem + (1.75 - 1.25) * ((100vw - 40rem) / (64 - 40))),
+    3rem
+  );
+}
+.prev-btn:active,
+.next-btn:active {
+  border: solid, 2px, red;
+}
+.prev-btn {
+  top: 50%;
+  left: 1%;
+}
+.next-btn {
+  top: 50%;
+  right: 1%;
+}
