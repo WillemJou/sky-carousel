@@ -4,7 +4,7 @@ A simple carousel made with [CodeSandBox](https://codesandbox.io/).
 
 I used the [Unsplash](https://unsplash.com/fr/s/photos/sunsplash) random https API to display random (and beautiful) images of the sky.
 
-- [Here](<(https://codesandbox.io/p/sandbox/sky-carousel-ltl8gj?file=%2Fsrc%2FApp.tsx)>) for the runtime project in codeSandBox.io
+- [Here](<[<(https://codesandbox.io/p/sandbox/sky-carousel-ltl8gj?file=%2Fsrc%2FApp.tsx)>](https://codesandbox.io/p/sandbox/sky-carousel-ltl8gj?file=%2Fsrc%2Fcarousel.tsx%3A30%2C6)>) for the runtime project in codeSandBox.io
 
 ## Made with React (and TypeScript) 😎
 
