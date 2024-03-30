@@ -1,6 +1,6 @@
 # Wiwi bank components
 
-A very cool project components for inspire people
+A very cool components for inspire people
 
 ## The meaning of it ? 🧐
 
@@ -18,7 +18,7 @@ Ultimately I would like to have a fairly and nice components bank made by everyo
 
 It displays when user click on arrows some random (and beautiful) photos of the sky.
 
-Thanks to them, I used the [Unsplash](https://unsplash.com/fr/s/photos/sunsplash) random https API request to display images and [CodeSandBox](https://codesandbox.io/) for...code with ease and class this little project !
+Thanks to them, I used the [Unsplash](https://unsplash.com/fr/s/photos/sunsplash) random https API request to display images and [CodeSandBox](https://codesandbox.io/) for...making it possible to code with ease and class this little project !
 
 #### Made with React (and TypeScript) 😎
 
